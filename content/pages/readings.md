@@ -9,25 +9,380 @@ In addition to the [readings listed by week](#Ses) below, see the bibliography
 Readings by Class Session
 -------------------------
 
-| {{< anchor "Ses" >}}{{< /anchor >}}LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**I. Grand Strategies: Their Origins and Their Effects**{{< /td-colspan >}} |||
-| 1 | Course Overview and Introduction to Grand Strategy | Clausewitz, Carl von. "The Influence of Clausewitz." _On War_. Edited and translated by Michael Howard and Peter Paret. Princeton: Princeton University Press, 1976, pp. 27-44.  {{< br >}}Note: All scholars of security affairs should own this book. If you do not wish to own this book, you must copy these pages and read them.  {{< br >}}  {{< br >}}———. "War Plans." _On War_. Edited and translated by Michael Howard and Peter Paret. Princeton: Princeton University Press, 1976, Book 8, pp. 577-637.  {{< br >}}Note: All scholars of security affairs should own this book. If you do not wish to own this book, you must copy these pages and read them.  {{< br >}}  {{< br >}}Bassford. "Clausewitz and His Works." Chapter 2 in _Clausewitz in English._ pp. 9-33.  {{< br >}}  {{< br >}}Liddell-Hart. _Strategy_. Chapter XIX, pp. 319-323.  {{< br >}}  {{< br >}}Posen. _Sources of Military Doctrine_. Chapter 1, pp. 13-33. |
-| 2 | Material Influences on Strategy: Geographical Position, National Power and Military Technology | _Geographical Position and National Power_  {{< br >}}  {{< br >}}Kennedy. _The Rise and Fall of British Naval Mastery_. Chapter 7, pp. 177-202.  {{< br >}}  {{< br >}}Kennedy. "The First World War and The International Power System." pp. 7-40.  {{< br >}}  {{< br >}}Posen. _Sources of Military Doctrine_. Chapter 2, pp. 34-41, 59-80.  {{< br >}}  {{< br >}}_Recommended  {{< br >}}  {{< br >}}_Weigley. "A Strategy of Sea Power and Empire." Chapter 9 in _The American Way of War_. pp. 167-191. Supplements the preceding.  {{< br >}}  {{< br >}}_Military Technology_  {{< br >}}  {{< br >}}Howard. "Men Against Fire." In _Military Strategy and the Origins of the First World War_. pp. 41-57. |
-| 3 | Military Organizations | Howard. _War in European History_. Chapter 4, pp. 54-74.  {{< br >}}  {{< br >}}Irvine. "The Origin of Capital Staffs." pp. 161-179.  {{< br >}}  {{< br >}}Posen. _Sources of Military Doctrine_. pp. 41-59.  {{< br >}}  {{< br >}}Vagts. _History of Militarism_. pp. 323-359.  {{< br >}}  {{< br >}}Travers. "Technology, Tactics, and Morale: Jean de Bloch, the Boer War and British Military Theory, 1900-1914." pp. 264-286. |
-| 4 | Nationalism | Carr. "The Third Period." In _Nationalism and After_. pp. 17-26.  {{< br >}}  {{< br >}}Stern. "Why do People Sacrifice for Their Nations?" In _Perspectives on Nationalism and War_. pp. 99-121.  {{< br >}}  {{< br >}}Hayes. "Nationalism and International War," and "Nationalism and Militarism." In _Essays on Nationalism_. pp. 126-155, 187- 195.  {{< br >}}  {{< br >}}Paret. "Nationalism and the Sense of Military Obligation."  {{< br >}}  {{< br >}}Posen. "Nationalism, the Mass Army, and Military Power."  {{< br >}}  {{< br >}}Van Evera. "Hypotheses on Nationalism and War." pp. 5-39.  {{< br >}}  {{< br >}}Farrar, Jr. "Villain or Scapegoat? Nationalism and the Outbreak of World War I."  {{< br >}}  {{< br >}}Williamson. "The Domestic Context of Habsburg Foreign Policy." Chapter 2 in _Austria-Hungary and the Origins of the First World War_ . pp. 13-33. |
-| 5 | The International Political System: Constraints, Incentives and Interactions | Jervis. "Cooperation Under the Security Dilemma." pp. 167-214.  {{< br >}}  {{< br >}}Waltz. "Anarchic Orders and Balances of Power," and "Structural Causes & Military Effects." In _Theory of International Politics_. pp. 102-128, 161-193.  {{< br >}}  {{< br >}}Christensen and Snyder. "Chain Gangs and Passed Bucks." _International Organization_ 44, no. 2 (Spring 1990): 137-168.  {{< br >}}  {{< br >}}Lynn-Jones. "Offense-Defense Theory and its Critics." _Security Studies_ 4, no. 4 (Summer 1995): 660-691. |
-| 6 | Historical Case Studies | George. _Case Studies and Theory Development_. pp. 43-68.  {{< br >}}  {{< br >}}Lijphart. "Comparative Politics and the Comparative Method." pp. 682-693.  {{< br >}}  {{< br >}}———. "The Comparable Cases Strategy in Comparative Research."  {{< br >}}  {{< br >}}Levy. "Too Important To Leave to the Other." _International Security_ 22, no. 1 (Summer 1997): 22-33.  {{< br >}}  {{< br >}}Haber, Kennedy and Krasner. "Brothers Under the Skin…" _International Security_ 22, no. 1 (Summer 1997): 34-43.  {{< br >}}  {{< br >}}Gaddis. "History, Theory and Common Ground…" _International Security_ (Summer 1997): 75-85.  {{< br >}}  {{< br >}}Posen. _The Sources of Military Doctrine_.  {{< br >}}Read the Preface, and Chapters 2 and 7, but read them after you read the methodology articles, and with an eye to how methodological problems were solved, or not. You can skim as much of the rest of the book as you wish.  {{< br >}}  {{< br >}}Paret. "The History of War and the New Military History." In _Understanding War._ pp. 209-226. |
-| {{< td-colspan 3 >}}**II. Origins of World War I**{{< /td-colspan >}} |||
-| 7 | The Anglo-German Rivalry (Naval and Otherwise) | Crowe. "Memorandum."  {{< br >}}  {{< br >}}Kennedy. "Tirpitz, England and the Second Navy Law of 1900: A Strategical Critique." pp. 33-57.  {{< br >}}  {{< br >}}———. _Rise and Fall_. Chapter 8, pp. 205-237.  {{< br >}}  {{< br >}}Turner. _Origins of the First World War_. pp. 1-60.  {{< br >}}  {{< br >}}Lynn-Jones. "Détente and Deterrence: Anglo-German Relations, 1911-1914." In _Military Strategy and the Origins of the First World War_. pp. 165-194.  {{< br >}}  {{< br >}}Geiss. _German Foreign Policy, 1871-1914_. pp. 75-83, 106-118, 121-127, 139-145.  {{< br >}}  {{< br >}}Williamson. "Joffre Reshapes French Strategy." pp. 133-154.  {{< br >}}  {{< br >}}Copeland. "German Security and the Preparation for World War I." Chapter 3 in _The Origins of Major War_. Ithaca, NY: Cornell, 2000, pp. 56-78.  {{< br >}}  {{< br >}}_Recommended_  {{< br >}}  {{< br >}}Rich. _Hitler's War Aims_. pp. XIX-XXX. (useful historical background) |
-| 8 | Grand Strategy and Military Doctrine Among the Pre-WWI Land Powers | Stevenson. "Militarization and Diplomacy in Europe before 1914." _International Security_ 22, no. 1 (Summer 1997): 125-161.  {{< br >}}  {{< br >}}Sagan. "1914 Revisited: Allies, Offense, and Instability." In _Military Strategy and the Origins of the First World War_. pp. 109-133.  {{< br >}}  {{< br >}}Ritter. "The Breach of Neutrality." In _The Schlieffen Plan_. pp. 3-10, 78-96.  {{< br >}}  {{< br >}}Snyder. _The Ideology of the Offensive_. (entire) |
-| 9 | The July Crisis, Military Strategy and the Outbreak of the War | Trachtenberg. "The Meaning of Mobilization in 1914." In _Military Strategy and the Origins of the First World War_. pp. 195-226.  {{< br >}}  {{< br >}}Van Evera. "The Cult of the Offensive." In _Military Strategy and the Origins of the First World War_. pp. 59-109.  {{< br >}}  {{< br >}}Turner. _Origins_. pp. 60-115.  {{< br >}}  {{< br >}}Turner. "The Russian Mobilization in 1914." pp. 252-268.  {{< br >}}  {{< br >}}Herrmann. _The Arming of Europe and the Making of the First World War_. Chapter 7, pp. 199-224.  {{< br >}}  {{< br >}}Fuller. "The Battles of the Marne and Tannenberg, 1914." In _A Military History of the Western World_ . pp. 182-228.  {{< br >}}  {{< br >}}_Recommended  {{< br >}}_  {{< br >}}Levy. "Preferences, Constraints, and Choices in July 1914." In _Military Strategy and the Origins of the First World War_. pp. 226-262. |
-| 10 | The Course and Conduct of WWI |  {{< br >}}{{< br >}} Lupfer. "The Dynamics of Doctrine: The Changes in German Tactical Doctrine During the First World War." (entire)  {{< br >}}Those who have not read it before should read  {{< br >}}  {{< br >}}Keegan. "The Somme." In  _The Face of Battle_. pp. 204-284.  {{< br >}}Note: This book is a Minor Classic; Security Studies Scholars should own a copy. If you do not wish to own the book or cannot find a library copy you will need to make yourself a copy.  {{< br >}}  {{< br >}}Kennedy. _Rise and Fall_. Chapter 9, pp. 239-265.  {{< br >}}  {{< br >}}_Recommended  {{< br >}}_  {{< br >}}May. "The U-Boat Campaign." In _The Use of Force,_ edited by Art and Waltz. pp. 298-315. {{< br >}}{{< br >}} The original source is:  {{< br >}}May. _The World War and American Isolation_. Cambridge: Harvard University Press, 1966, pp. 114-136. (Students will also find pp. 200-252, and 387-415 instructive.)  {{< br >}}  {{< br >}}_Bibliographical Note On the Pre-World War I Period  {{< br >}}_  {{< br >}}Students interested in more comprehensive discussions will wish to examine: {{< br >}}{{< br >}} Steiner. _Britain and the Origins of the First World War_.  {{< br >}}  {{< br >}}Berghahn. _Germany and the Approach of War in 1914_.  {{< br >}}  {{< br >}}Keiger. _France and the Origins of the First World War_.  {{< br >}}  {{< br >}}Lieven. _Russia and the Origins of the First World War_.  {{< br >}}  {{< br >}}Williamson. _Austria Hungary and the Origins of the First World War_.  {{< br >}}  {{< br >}}Shanafelt. _The Secret Enemy_. (About German-Austria relations.) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**III. Origins of World War II**{{< /td-colspan >}} |||
-| 11 | British and German Grand Strategy in the 1930s | Weinberg. "From One War to Another." In _A World At Arms_. pp. 6-47.  {{< br >}}  {{< br >}}May. _Strange Victory_. Chapter 7, pp. 94-110.  {{< br >}}  {{< br >}}Kennedy. _Rise and Fall_. Chapter 10, pp. 267-298.  {{< br >}}  {{< br >}}Posen. _Sources of Military Doctrine_. Chapters 5, and 6.  {{< br >}}  {{< br >}}Schweller. "An Assessment of the International Distribution of Power (circa 1938-1940)." _Deadly Imbalances_. pp. 203-208. (Appendix)  {{< br >}}  {{< br >}}_Recommended_  {{< br >}}  {{< br >}}Howard. _War in European History._ Chapter 7, pp. 116-135. |
-| 12 | French Grand Strategy | May. _Strange Victory_. Chapters 8, 9, 10 (pp. 113-153), Chapters 19-21 (pp. 271-322).  {{< br >}}  {{< br >}}Posen. "Still Strange Defeat." Draft  {{< br >}}  {{< br >}}Young, Robert. In _Command of France_. pp. 1-33.  {{< br >}}  {{< br >}}Posen. _Sources of Military Doctrine._ Chapter 4. |
-| 13 | Military Doctrine, Land Warfare, and the Crises of the Late 1930s | Mearsheimer, John. _Conventional Deterrence._ (All but the Chapter on the Nato-Pact competition.)  {{< br >}}  {{< br >}}Herwig, Holger. "Clio Deceived." In _Military Strategy and the Origins of the First World War_. pp. 262-301.  {{< br >}}  {{< br >}}May. _Strange Victory_. Chapters 11, 12, pp. 153-212.  {{< br >}}  {{< br >}}Posen. "Competing Images of the Soviet Union."  {{< br >}}  {{< br >}}Overy and Wheatcroft. "The Soviet Union." Chapter 5 in _The Road To War_ . pp. 210-257. |
-| 14 | The Opening Battles of the War | _Review_  {{< br >}}  {{< br >}}Posen. _Sources of Military Doctrine_. pp. 81-104.  {{< br >}}  {{< br >}}_Read_  {{< br >}}  {{< br >}}May. _Strange Victory_. Chapters 15, 16, 17, 18 (pp. 215-268), Chapters 24 through to the conclusion (pp. 347-464). 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+{{< anchor "Ses" >}}{{< /anchor >}}LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. Grand Strategies: Their Origins and Their Effects**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Overview and Introduction to Grand Strategy
+{{< tdclose >}}
+{{< tdopen >}}
+Clausewitz, Carl von. "The Influence of Clausewitz." _On War_. Edited and translated by Michael Howard and Peter Paret. Princeton: Princeton University Press, 1976, pp. 27-44.  
+Note: All scholars of security affairs should own this book. If you do not wish to own this book, you must copy these pages and read them.  
+  
+———. "War Plans." _On War_. Edited and translated by Michael Howard and Peter Paret. Princeton: Princeton University Press, 1976, Book 8, pp. 577-637.  
+Note: All scholars of security affairs should own this book. If you do not wish to own this book, you must copy these pages and read them.  
+  
+Bassford. "Clausewitz and His Works." Chapter 2 in _Clausewitz in English._ pp. 9-33.  
+  
+Liddell-Hart. _Strategy_. Chapter XIX, pp. 319-323.  
+  
+Posen. _Sources of Military Doctrine_. Chapter 1, pp. 13-33.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Material Influences on Strategy: Geographical Position, National Power and Military Technology
+{{< tdclose >}}
+{{< tdopen >}}
+_Geographical Position and National Power_  
+  
+Kennedy. _The Rise and Fall of British Naval Mastery_. Chapter 7, pp. 177-202.  
+  
+Kennedy. "The First World War and The International Power System." pp. 7-40.  
+  
+Posen. _Sources of Military Doctrine_. Chapter 2, pp. 34-41, 59-80.  
+  
+_Recommended  
+  
+_Weigley. "A Strategy of Sea Power and Empire." Chapter 9 in _The American Way of War_. pp. 167-191. Supplements the preceding.  
+  
+_Military Technology_  
+  
+Howard. "Men Against Fire." In _Military Strategy and the Origins of the First World War_. pp. 41-57.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Military Organizations
+{{< tdclose >}}
+{{< tdopen >}}
+Howard. _War in European History_. Chapter 4, pp. 54-74.  
+  
+Irvine. "The Origin of Capital Staffs." pp. 161-179.  
+  
+Posen. _Sources of Military Doctrine_. pp. 41-59.  
+  
+Vagts. _History of Militarism_. pp. 323-359.  
+  
+Travers. "Technology, Tactics, and Morale: Jean de Bloch, the Boer War and British Military Theory, 1900-1914." pp. 264-286.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Nationalism
+{{< tdclose >}}
+{{< tdopen >}}
+Carr. "The Third Period." In _Nationalism and After_. pp. 17-26.  
+  
+Stern. "Why do People Sacrifice for Their Nations?" In _Perspectives on Nationalism and War_. pp. 99-121.  
+  
+Hayes. "Nationalism and International War," and "Nationalism and Militarism." In _Essays on Nationalism_. pp. 126-155, 187- 195.  
+  
+Paret. "Nationalism and the Sense of Military Obligation."  
+  
+Posen. "Nationalism, the Mass Army, and Military Power."  
+  
+Van Evera. "Hypotheses on Nationalism and War." pp. 5-39.  
+  
+Farrar, Jr. "Villain or Scapegoat? Nationalism and the Outbreak of World War I."  
+  
+Williamson. "The Domestic Context of Habsburg Foreign Policy." Chapter 2 in _Austria-Hungary and the Origins of the First World War_ . pp. 13-33.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The International Political System: Constraints, Incentives and Interactions
+{{< tdclose >}}
+{{< tdopen >}}
+Jervis. "Cooperation Under the Security Dilemma." pp. 167-214.  
+  
+Waltz. "Anarchic Orders and Balances of Power," and "Structural Causes & Military Effects." In _Theory of International Politics_. pp. 102-128, 161-193.  
+  
+Christensen and Snyder. "Chain Gangs and Passed Bucks." _International Organization_ 44, no. 2 (Spring 1990): 137-168.  
+  
+Lynn-Jones. "Offense-Defense Theory and its Critics." _Security Studies_ 4, no. 4 (Summer 1995): 660-691.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Historical Case Studies
+{{< tdclose >}}
+{{< tdopen >}}
+George. _Case Studies and Theory Development_. pp. 43-68.  
+  
+Lijphart. "Comparative Politics and the Comparative Method." pp. 682-693.  
+  
+———. "The Comparable Cases Strategy in Comparative Research."  
+  
+Levy. "Too Important To Leave to the Other." _International Security_ 22, no. 1 (Summer 1997): 22-33.  
+  
+Haber, Kennedy and Krasner. "Brothers Under the Skin…" _International Security_ 22, no. 1 (Summer 1997): 34-43.  
+  
+Gaddis. "History, Theory and Common Ground…" _International Security_ (Summer 1997): 75-85.  
+  
+Posen. _The Sources of Military Doctrine_.  
+Read the Preface, and Chapters 2 and 7, but read them after you read the methodology articles, and with an eye to how methodological problems were solved, or not. You can skim as much of the rest of the book as you wish.  
+  
+Paret. "The History of War and the New Military History." In _Understanding War._ pp. 209-226.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. Origins of World War I**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The Anglo-German Rivalry (Naval and Otherwise)
+{{< tdclose >}}
+{{< tdopen >}}
+Crowe. "Memorandum."  
+  
+Kennedy. "Tirpitz, England and the Second Navy Law of 1900: A Strategical Critique." pp. 33-57.  
+  
+———. _Rise and Fall_. Chapter 8, pp. 205-237.  
+  
+Turner. _Origins of the First World War_. pp. 1-60.  
+  
+Lynn-Jones. "Détente and Deterrence: Anglo-German Relations, 1911-1914." In _Military Strategy and the Origins of the First World War_. pp. 165-194.  
+  
+Geiss. _German Foreign Policy, 1871-1914_. pp. 75-83, 106-118, 121-127, 139-145.  
+  
+Williamson. "Joffre Reshapes French Strategy." pp. 133-154.  
+  
+Copeland. "German Security and the Preparation for World War I." Chapter 3 in _The Origins of Major War_. Ithaca, NY: Cornell, 2000, pp. 56-78.  
+  
+_Recommended_  
+  
+Rich. _Hitler's War Aims_. pp. XIX-XXX. (useful historical background)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Grand Strategy and Military Doctrine Among the Pre-WWI Land Powers
+{{< tdclose >}}
+{{< tdopen >}}
+Stevenson. "Militarization and Diplomacy in Europe before 1914." _International Security_ 22, no. 1 (Summer 1997): 125-161.  
+  
+Sagan. "1914 Revisited: Allies, Offense, and Instability." In _Military Strategy and the Origins of the First World War_. pp. 109-133.  
+  
+Ritter. "The Breach of Neutrality." In _The Schlieffen Plan_. pp. 3-10, 78-96.  
+  
+Snyder. _The Ideology of the Offensive_. (entire)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The July Crisis, Military Strategy and the Outbreak of the War
+{{< tdclose >}}
+{{< tdopen >}}
+Trachtenberg. "The Meaning of Mobilization in 1914." In _Military Strategy and the Origins of the First World War_. pp. 195-226.  
+  
+Van Evera. "The Cult of the Offensive." In _Military Strategy and the Origins of the First World War_. pp. 59-109.  
+  
+Turner. _Origins_. pp. 60-115.  
+  
+Turner. "The Russian Mobilization in 1914." pp. 252-268.  
+  
+Herrmann. _The Arming of Europe and the Making of the First World War_. Chapter 7, pp. 199-224.  
+  
+Fuller. "The Battles of the Marne and Tannenberg, 1914." In _A Military History of the Western World_ . pp. 182-228.  
+  
+_Recommended  
+_  
+Levy. "Preferences, Constraints, and Choices in July 1914." In _Military Strategy and the Origins of the First World War_. pp. 226-262.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The Course and Conduct of WWI
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lupfer. "The Dynamics of Doctrine: The Changes in German Tactical Doctrine During the First World War." (entire)  
+Those who have not read it before should read  
+  
+Keegan. "The Somme." In  _The Face of Battle_. pp. 204-284.  
+Note: This book is a Minor Classic; Security Studies Scholars should own a copy. If you do not wish to own the book or cannot find a library copy you will need to make yourself a copy.  
+  
+Kennedy. _Rise and Fall_. Chapter 9, pp. 239-265.  
+  
+_Recommended  
+_  
+May. "The U-Boat Campaign." In _The Use of Force,_ edited by Art and Waltz. pp. 298-315.
+
+The original source is:  
+May. _The World War and American Isolation_. Cambridge: Harvard University Press, 1966, pp. 114-136. (Students will also find pp. 200-252, and 387-415 instructive.)  
+  
+_Bibliographical Note On the Pre-World War I Period  
+_  
+Students interested in more comprehensive discussions will wish to examine:
+
+Steiner. _Britain and the Origins of the First World War_.  
+  
+Berghahn. _Germany and the Approach of War in 1914_.  
+  
+Keiger. _France and the Origins of the First World War_.  
+  
+Lieven. _Russia and the Origins of the First World War_.  
+  
+Williamson. _Austria Hungary and the Origins of the First World War_.  
+  
+Shanafelt. _The Secret Enemy_. (About German-Austria relations.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. Origins of World War II**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+British and German Grand Strategy in the 1930s
+{{< tdclose >}}
+{{< tdopen >}}
+Weinberg. "From One War to Another." In _A World At Arms_. pp. 6-47.  
+  
+May. _Strange Victory_. Chapter 7, pp. 94-110.  
+  
+Kennedy. _Rise and Fall_. Chapter 10, pp. 267-298.  
+  
+Posen. _Sources of Military Doctrine_. Chapters 5, and 6.  
+  
+Schweller. "An Assessment of the International Distribution of Power (circa 1938-1940)." _Deadly Imbalances_. pp. 203-208. (Appendix)  
+  
+_Recommended_  
+  
+Howard. _War in European History._ Chapter 7, pp. 116-135.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+French Grand Strategy
+{{< tdclose >}}
+{{< tdopen >}}
+May. _Strange Victory_. Chapters 8, 9, 10 (pp. 113-153), Chapters 19-21 (pp. 271-322).  
+  
+Posen. "Still Strange Defeat." Draft  
+  
+Young, Robert. In _Command of France_. pp. 1-33.  
+  
+Posen. _Sources of Military Doctrine._ Chapter 4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Military Doctrine, Land Warfare, and the Crises of the Late 1930s
+{{< tdclose >}}
+{{< tdopen >}}
+Mearsheimer, John. _Conventional Deterrence._ (All but the Chapter on the Nato-Pact competition.)  
+  
+Herwig, Holger. "Clio Deceived." In _Military Strategy and the Origins of the First World War_. pp. 262-301.  
+  
+May. _Strange Victory_. Chapters 11, 12, pp. 153-212.  
+  
+Posen. "Competing Images of the Soviet Union."  
+  
+Overy and Wheatcroft. "The Soviet Union." Chapter 5 in _The Road To War_ . pp. 210-257.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+The Opening Battles of the War
+{{< tdclose >}}
+{{< tdopen >}}
+_Review_  
+  
+Posen. _Sources of Military Doctrine_. pp. 81-104.  
+  
+_Read_  
+  
+May. _Strange Victory_. Chapters 15, 16, 17, 18 (pp. 215-268), Chapters 24 through to the conclusion (pp. 347-464).
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Required_Readings" >}}{{< /anchor >}}Required Readings
 ------------------------------------------------------------------
